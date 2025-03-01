@@ -44,5 +44,5 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 🔗 Connect with me: https://www.linkedin.com/in/sakshisonawale/
+## 🔗 Connect with me: [LinkedIn] (https://www.linkedin.com/in/sakshisonawale/)
 
