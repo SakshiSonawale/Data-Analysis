@@ -18,7 +18,7 @@ Use data to determine the three types of Halloween candy that will make your hou
 
 6. Analyze candy categories and select three optimal picks.
 
-# 🍬 My Top Picks
+# 🍬 Top Picks
 
 Based on analysis, the best candies to distribute are:
 
